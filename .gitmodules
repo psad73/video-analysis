@@ -1,0 +1,3 @@
+[submodule "Eulerian-Video-Magnification"]
+	path = Eulerian-Video-Magnification
+	url = https://github.com/hbenbel/Eulerian-Video-Magnification.git
