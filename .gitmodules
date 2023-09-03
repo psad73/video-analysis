@@ -1,3 +1,9 @@
 [submodule "Eulerian-Video-Magnification"]
 	path = Eulerian-Video-Magnification
 	url = https://github.com/hbenbel/Eulerian-Video-Magnification.git
+[submodule "Motion-Magnification"]
+	path = Motion-Magnification
+	url = https://github.com/twyunting/Motion-Magnification.git
+[submodule "STB-VMM"]
+	path = STB-VMM
+	url = https://github.com/RLado/STB-VMM.git
